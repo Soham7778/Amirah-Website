@@ -1,5 +1,6 @@
 # Amirah-Website
 <!DOCTYPE html>
+
 <html>
 <head>
 <title>Amirah - Smart AI App</title>
